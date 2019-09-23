@@ -1,0 +1,17 @@
+note
+*.pyc
+.python-version
+test.py
+*.swp
+
+.idea
+.vscode/
+
+pyvenv.cfg
+.venv
+
+*.mypy_cache/*
+*.pytest_cache/*
+__pycache__/*
+*__pycache__/*
+__pycache__
